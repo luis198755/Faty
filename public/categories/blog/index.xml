@@ -9,16 +9,6 @@
     
     <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>El Caballito</title>
-      <link>/videos/post-lite-one/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/videos/post-lite-one/</guid>
-      <description>El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-one/cover.webp" />
-    </item>
-    
-    <item>
       <title>El estudio de la música en la niñez</title>
       <link>/posts/post-lite-three/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
@@ -36,6 +26,16 @@
       <guid>/posts/post-lite-four/</guid>
       <description>Desarrollado por el violinista y educador japonés Shinichi Suzuki en la década de 1940, es una filosofía de enseñanza musical que ha transformado el aprendizaje del violín y otros instrumentos musicales.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.webp" />
+    </item>
+    
+    <item>
+      <title>El Toro Requesón</title>
+      <link>/videos/post-lite-one/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/videos/post-lite-one/</guid>
+      <description>El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-one/cover.webp" />
     </item>
     
     <item>
