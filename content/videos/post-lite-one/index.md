@@ -1,5 +1,5 @@
 ---
-title: "El Caballito"
+title: "El Toro Requesón"
 summary: "El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México."
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
